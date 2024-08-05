@@ -25,6 +25,11 @@
       <version>6.1</version>
       
     </dependency>
+    <dependency>
+      <groupId>com.mysql</groupId>
+      <artifactId>jdbc.Driver</artifactId>
+      <version>8.0</version>
+    </dependency>
   
   </dependencies>
 
